@@ -3,8 +3,8 @@
 
 <svg
    width="34.385498mm"
-   height="2.9993mm"
-   viewBox="0 0 34.385497 2.9993"
+   height="9mm"
+   viewBox="0 0 34.385497 9"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -25,37 +25,64 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.0888419"
-     inkscape:cx="278.6233"
-     inkscape:cy="104.36405"
+     inkscape:cx="276.70835"
+     inkscape:cy="149.8438"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2">
+    <sodipodi:guide
+       position="-6.079924,14.193262"
+       orientation="0,129.96094"
+       id="guide948"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="34.385498,8.999994"
+       orientation="11.335937,0"
+       id="guide950"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-7.2199098,0.6400985"
+       orientation="0,-129.96094"
+       id="guide952"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-4.1210937e-08,6.000694"
+       orientation="-11.335937,0"
+       id="guide954"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
        x="27.081295"
        y="88.014206"
-       width="133.03333"
-       height="20.048042"
+       width="131.11839"
+       height="59.304245"
        id="rect70" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Text"
-     transform="translate(-3.9855572,-3.2954166)">
+     transform="translate(-4.1122223,8.6393738)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.2026344,-20.648858)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.9493042,-34.962018)"
        id="text68"
        style="white-space:pre;shape-inside:url(#rect70);fill:#000000"><tspan
          x="27.082031"
          y="101.60742"
-         id="tspan1825"><tspan
+         id="tspan1696"><tspan
            style="font-weight:bold;font-size:16px;font-family:Candara;-inkscape-font-specification:'Candara, Bold';fill:#ffffff"
-           id="tspan1823">Athletic Academics</tspan></tspan></text>
+           id="tspan1694">
+</tspan></tspan><tspan
+         x="27.082031"
+         y="121.60742"
+         id="tspan1700"><tspan
+           style="font-weight:bold;font-size:16px;font-family:Candara;-inkscape-font-specification:'Candara, Bold';fill:#ffffff"
+           id="tspan1698">Athletic Academics</tspan></tspan></text>
   </g>
 </svg>
