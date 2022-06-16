@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="137.54199mm"
-   height="11.9972mm"
-   viewBox="0 0 137.54199 11.9972"
+   width="34.385498mm"
+   height="2.9993mm"
+   viewBox="0 0 34.385497 2.9993"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.73851712"
-     inkscape:cx="145.56196"
-     inkscape:cy="226.12881"
+     inkscape:zoom="2.0888419"
+     inkscape:cx="278.6233"
+     inkscape:cy="104.36405"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -38,24 +38,24 @@
     <rect
        x="27.081295"
        y="88.014206"
-       width="537.56372"
-       height="79.889816"
+       width="133.03333"
+       height="20.048042"
        id="rect70" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Text"
-     transform="translate(-3.6737748,-2.9874172)">
+     transform="translate(-3.9855572,-3.2954166)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.5826297,-22.92883)"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.2026344,-20.648858)"
        id="text68"
        style="white-space:pre;shape-inside:url(#rect70);fill:#000000"><tspan
          x="27.082031"
-         y="142.38867"
-         id="tspan1806"><tspan
-           style="font-weight:bold;font-size:64px;font-family:Candara;-inkscape-font-specification:'Candara, Bold';fill:#ffffff"
-           id="tspan1804">Athletic Academics</tspan></tspan></text>
+         y="101.60742"
+         id="tspan1825"><tspan
+           style="font-weight:bold;font-size:16px;font-family:Candara;-inkscape-font-specification:'Candara, Bold';fill:#ffffff"
+           id="tspan1823">Athletic Academics</tspan></tspan></text>
   </g>
 </svg>
