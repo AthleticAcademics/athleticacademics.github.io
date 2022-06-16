@@ -3,8 +3,8 @@
 
 <svg
    width="34.385498mm"
-   height="9mm"
-   viewBox="0 0 34.385497 9"
+   height="6mm"
+   viewBox="0 0 34.385497 6"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -34,22 +34,22 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2">
     <sodipodi:guide
-       position="-6.079924,14.193262"
+       position="-6.0799238,11.193262"
        orientation="0,129.96094"
        id="guide948"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="34.385498,8.999994"
+       position="34.385497,5.9999938"
        orientation="11.335937,0"
        id="guide950"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-7.2199098,0.6400985"
+       position="-7.2199096,-2.3599014"
        orientation="0,-129.96094"
        id="guide952"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-4.1210937e-08,6.000694"
+       position="-4.1210936e-08,3.0006939"
        orientation="-11.335937,0"
        id="guide954"
        inkscape:locked="false" />
@@ -70,19 +70,19 @@
      transform="translate(-4.1122223,8.6393738)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.9493042,-34.962018)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.695974,-36.481999)"
        id="text68"
-       style="white-space:pre;shape-inside:url(#rect70);display:inline;fill:#000000;-inkscape-font-specification:'Calibri, Bold';font-family:Calibri;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect70);display:inline;fill:#000000"><tspan
          x="27.082031"
          y="102.01367"
-         id="tspan3934"><tspan
+         id="tspan3954"><tspan
            style="fill:#ffffff"
-           id="tspan3932">
+           id="tspan3952">
 </tspan></tspan><tspan
          x="27.082031"
          y="122.01367"
-         id="tspan3938"><tspan
+         id="tspan3958"><tspan
            style="fill:#ffffff"
-           id="tspan3936">Athletic Academics</tspan></tspan></text>
+           id="tspan3956">Athletic Academics</tspan></tspan></text>
   </g>
 </svg>
