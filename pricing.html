@@ -1,71 +1,58 @@
 ---
 title: Pricing
-heading: Find the perfect plan for your business
-description: All plans include our award winning sales optimization solution to track your sales in real time.
+heading: Tiered pricing depending on the needs of the individual.
+description: All options include 1-on-1 work with one of our team members. The specific content of each session depends on what the paired team member identifies as important to the student.
 pricing_table:
-  - name: Basic
+  - name: Per 30 minute Session
     color: "#8e8e8e"
     features:
-      - text: $25 per month
+      - text: $25
         highlight: true
-      - text: Up to 5 users
+      - text: Personalized Lessons
         highlight: false
-      - text: Basic lead scoring
+      - text: Flexible Scheduling
         highlight: false
-      - text: CRM
+      - text: On Site or Virtual
         highlight: false
-      - text: Basic reporting
+      - text: Perfect for mentoring/advising sessions
         highlight: false
-      - text: Sales map
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=basic
-      text: Get started
-  - name: Pro
+  - name: Per 60 minute Session
     color: "#4a4a4a"
     features:
-      - text: $99 per month
+      - text: $40
         highlight: true
-      - text: Everything in Basic
+      - text: Personalized Lessons
         highlight: false
-      - text: Up to 25 users
+      - text: Flexible Scheduling
         highlight: false
-      - text: Advanced lead scoring
+      - text: On Site or Virtual
         highlight: false
-      - text: Pipeline management
+      - text: Perfect for tutoring sessions
         highlight: false
-      - text: Advanced reporting
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=pro
-      text: Get started
-  - name: Professional
+  - name: Monthly
     color: "#000000"
     features:
-      - text: $299 per month
+      - text: $150 per month
         highlight: true
-      - text: Everything in Basic and Pro
+      - text: 4 sessions a month
         highlight: false
-      - text: Up to 100 users
+      - text: 60 minute sessions
         highlight: false
-      - text: Campaign builder
+      - text: Fits into your weekly schedule
         highlight: false
-      - text: Machine learning
+      - text: Flexible session content
         highlight: false
-      - text: Calendar
+      - text: Perfect for maintaining consistency
         highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=professional
-      text: Get started
 faq:
   - question: What types of payment do you accept?
-    answer: Credit cards including MasterCard, Visa or American Express.
-  - question: Can I change my plan at a later time?
-    answer: Yes, you can upgrade and downgrade your plan at anytime.
-  - question: Do you offer pricing for nonprofit organizations?
-    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
+    answer: All payments are either email money transfer or cash per lesson.
+  - question: Can I cancel the monthly option?
+    answer: Yes, you can cancel at any time. Any remaining sessions will be refunded.
+  - question: Do you offer pricing for low-income families?
+    answer: Yes, a small portion of our Schedule is set aside for volunteer-based services. We believe money should not come between a student and academic success.
   - question: Questions?
-    answer: Contact us for any further questions at <a href="#">john@business.com</a>.
+    answer: Contact us for any further questions at <a href="#">AthleticAcademicsInfo@gmail.com</a>.
 ---
 <div class="plans">
 	{% for plan in page.pricing_table %}
