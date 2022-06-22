@@ -3,6 +3,17 @@ title: About Me
 description: I strive to ensure academics are not a limiting factor for athletes who are perusing university. Many student athletes suffer from poor academics due to hectic sports scheduling. By treating studying and school work like practicing and game day, athletes are more likely to succeed academically and enjoy it too!  
 ---
 
+<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
+<ul class="staff">
+	{% for person in site.staff_members %}
+		<li>
+			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
+			<div class="name"><a target="_blank">{{ person.name }}</a></div>
+			<div class="position">{{ person.position }}</div>
+		</li>
+	{% endfor %}
+</ul>
+
 <div class="content">
 	<section>
 		<div class="container flex">
@@ -46,13 +57,4 @@ description: I strive to ensure academics are not a limiting factor for athletes
 	</section>
 </div>
 
-<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
-<ul class="staff">
-	{% for person in site.staff_members %}
-		<li>
-			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
-			<div class="name"><a target="_blank">{{ person.name }}</a></div>
-			<div class="position">{{ person.position }}</div>
-		</li>
-	{% endfor %}
-</ul>
+
